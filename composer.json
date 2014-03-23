@@ -3,7 +3,7 @@
 	"description": "A PHP implementation of the LinkedIn API with caching engine",
 	"type": "library",
 	"keywords": ["linkedin", "api", "cache", "filesystem"],
-	"homepage": "https://github.com/zelenin/Instagram",
+	"homepage": "https://github.com/maZahaca/linkedin",
 	"license": "MIT",
 	"authors": [
 		{
