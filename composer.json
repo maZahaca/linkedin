@@ -1,0 +1,26 @@
+{
+	"name": "redcode/linkedin-api",
+	"description": "A PHP implementation of the LinkedIn API with caching engine",
+	"type": "library",
+	"keywords": ["linkedin", "api", "cache", "filesystem"],
+	"homepage": "https://github.com/zelenin/Instagram",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Andrew Reddikh",
+			"email": "andrew@reddikh.com",
+			"homepage": "http://andrew.reddikh.com",
+			"role": "PHP Developer"
+		}
+	],
+	"require": {
+		"php": ">=5.4.0",
+		"linkedinapi/linkedin": "1.1.*"
+	},
+	"autoload": {
+		"psr-0": {
+			"RedCode\\LinkedIn": "src/"
+		}
+	},
+	"minimum-stability": "stable"
+}
