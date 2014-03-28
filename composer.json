@@ -15,7 +15,8 @@
 	],
 	"require": {
 		"php": ">=5.4.0",
-		"linkedinapi/linkedin": "1.1.*"
+		"linkedinapi/linkedin": "1.1.*",
+        "doctrine/cache": "v1.3.0"
 	},
 	"autoload": {
 		"psr-0": {
