@@ -1,8 +1,8 @@
 {
 	"name": "redcode/linkedin-api",
-	"description": "A PHP implementation of the LinkedIn API with caching engine",
+	"description": "A PHP implementation of the LinkedIn API with caching ability",
 	"type": "library",
-	"keywords": ["linkedin", "api", "cache", "filesystem"],
+	"keywords": ["linkedin", "api", "cache", "filesystem", "oauth"],
 	"homepage": "https://github.com/maZahaca/linkedin",
 	"license": "MIT",
 	"authors": [
